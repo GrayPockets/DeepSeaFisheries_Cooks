@@ -18,6 +18,8 @@
     <AssemblyName>GrayPockets.DeepSeaFisheries.Cooks</AssemblyName>
     <RootNamespace>GrayPockets.DeepSeaFisheries.Cooks</RootNamespace>
     <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+  <Dependency type="Dlc" title="Expansion: Rise and Fall" id="1B28771A-C749-434B-9053-D1380C553DE9" />
   <Dependency type="Mod" title="Deep Sea Fisheries" id="b0958e58-e253-4270-84cc-604e4568f3af" />
   <Dependency type="Mod" title="Sukritact's Oceans" id="4922ba47-61e1-4b15-9281-db996b14522d" />
 </Associations>]]></AssociationData>

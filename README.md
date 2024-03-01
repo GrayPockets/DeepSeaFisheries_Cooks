@@ -8,6 +8,8 @@ This mod cooks several items in "Deep Sea Fisheries"
 
 ## Requirements
 
+* Expansion: Rise and Fall
+* Expansion: Gathering Storm
 * Deep Sea Fisheries
 * Sukritact's Oceans
 
